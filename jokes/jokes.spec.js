@@ -7,7 +7,7 @@ describe('test jokes', () => {
     const jokes = {
         id: 1,
         joke: "Im not funny cuz im a dad"
-        
+
     }
 
     describe('get jokes', () => {
